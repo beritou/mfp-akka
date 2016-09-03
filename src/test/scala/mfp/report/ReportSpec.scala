@@ -1,3 +1,5 @@
+package mfp.login
+
 import org.scalatest.FreeSpec
 
 class LoginSpec extends FreeSpec {
